@@ -12,7 +12,7 @@ This repo allows you to showcase the saved cards
 
 ## 📸 Screenshot
 
-![Simulator Screen Shot - iPhone 11 Pro Max - 2019-12-10 at 17 56 42](https://user-images.githubusercontent.com/10756609/70530430-d9a95480-1b78-11ea-8441-e05cfd937a36.png)
+![xs-1](https://user-images.githubusercontent.com/13218010/70715359-22474600-1d10-11ea-8b02-aec76ffd725e.png)
 
 ## Requirements
 
